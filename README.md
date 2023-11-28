@@ -1,5 +1,5 @@
 # 하루살이 플레이어 (방치형 모바일 게임)
-![image](https://github.com/jaebins/EphemeraGame/assets/70888275/3ba40a22-e872-42ae-944a-b67a278a033a)
+![image](https://github.com/jaebins/EphemeraGame/assets/70888275/ac4428ae-b495-48f8-9152-d56dcf5c43a6)
 ### 플레이 영상
 <a href="https://www.youtube.com/watch?v=hpCMVTnQkjQ&t=36s">![js](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)</a>
 ### 사용된 기술
